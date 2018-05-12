@@ -1,0 +1,45 @@
+_repo: Par-dia-ao-primeiro-canto-dos-Lus-adas-de-Cam-es-por-quatro-estudantes-de--vora-em-1589_20149
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Valle de Moura, Manuel do
+    alias: Moura, Manuel do Valle de
+    birthdate: 1564
+    deathdate: 1650
+    gutenberg_agent_id: '37466'
+    url: http://www.gutenberg.org/2009/agents/37466
+  - agent_name: Vasconcelos, Luís Mendes de, active 1608
+    aliases:
+    - Vasconcelos, Luis Mendes de
+    - Vasconcellos, Luiz Mendes de
+    gutenberg_agent_id: '37468'
+    url: http://www.gutenberg.org/2009/agents/37468
+  - agent_name: Freire, Manuel Luiz
+    gutenberg_agent_id: '37465'
+    url: http://www.gutenberg.org/2009/agents/37465
+  - agent_name: Varela, Bartolomeu, active 1589-1619
+    alias: Varella, Bartholomeu
+    gutenberg_agent_id: '37467'
+    url: http://www.gutenberg.org/2009/agents/37467
+description: '"Esta peça ... [foi] composta nos ultimos annos do seculo XVI por ...
+  Manuel do Valle de Moura, Bartholomeu Varella, Manuel Luis Freire e Luis Mendes
+  de Vasconcellos, concorrendo porém este ultimo com um unico verso, e pertencendo
+  a parte principal da obra a Manuel Luis."--Silva''s Dic. bibl. port., v.6, p. 350.'
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2006-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20149'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camões, Luís de, 1524?-1580 -- Parodies, imitations, etc.'
+- !lcc 'PQ'
+title: Paródia ao primeiro canto dos Lusíadas de Camões por quatro estudantes de Évora
+  em 1589
+url: http://www.gutenberg.org/ebooks/20149
